@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: info.globalscope
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, github-workflow-ci, github-workflow-docker-registry, gradle, http-client, java, java-application, junit, log4j2, micronaut-aop, micronaut-build, netty-server, openapi, readme, serialization-jackson, shade, swagger-ui, yaml]
